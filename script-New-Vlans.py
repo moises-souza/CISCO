@@ -1,4 +1,4 @@
-@@ -0,0 +1,29 @@
+# -*- coding: utf-8 -*-
 import getpass
 import sys
 import telnetlib
