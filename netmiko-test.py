@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from netmiko import ConnectHandler
 
 iosv_12 = {
