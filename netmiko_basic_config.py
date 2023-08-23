@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+#!/usr/bin/env python
+
 from netmiko import ConnectHandler
 
 iosv_12_s1 = {
