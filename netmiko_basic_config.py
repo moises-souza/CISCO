@@ -16,7 +16,7 @@ iosv_12_s2 = {
 
 }
 
-with open('basci_config1') as f:
+with open('basic_config1') as f:
     lines = f.read().splitlines()
 print lines
 
