@@ -9,4 +9,4 @@ interface ether 1/3
 vtp domain PYTHON
 vtp mode transparent
 
-username CCIEPYTHON prive 15 password Python
+username CCIEPYTHON privilege 15 password Python
